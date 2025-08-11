@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "name": "IT & Software",
+            "count": 1245,
+            "icon": "fas fa-laptop-code"
+        },
+        {
+            "name": "Banking",
+            "count": 876,
+            "icon": "fas fa-university"
+        },
+        {
+            "name": "Engineering",
+            "count": 543,
+            "icon": "fas fa-cogs"
+        },
+        {
+            "name": "Healthcare",
+            "count": 432,
+            "icon": "fas fa-hospital"
+        },
+        {
+            "name": "Teaching",
+            "count": 321,
+            "icon": "fas fa-chalkboard-teacher"
+        },
+        {
+            "name": "Marketing",
+            "count": 298,
+            "icon": "fas fa-bullhorn"
+        }
+    ],
+    "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "TechSolutions Ltd",
+            "location": "Karachi",
+            "salary": "Rs 200,000 - 300,000",
+            "type": "Full-time",
+            "image": "https://example.com/job1.jpg",
+            "applyLink": "https://example.com/apply/job1"
+        },
+        {
+            "title": "Bank Manager",
+            "company": "National Bank",
+            "location": "Lahore",
+            "salary": "Rs 150,000 - 250,000",
+            "type": "Full-time",
+            "image": "https://example.com/job2.jpg",
+            "applyLink": "https://example.com/apply/job2"
+        },
+        {
+            "title": "Civil Engineer",
+            "company": "Construction Plus",
+            "location": "Islamabad",
+            "salary": "Rs 120,000 - 200,000",
+            "type": "Contract",
+            "image": "https://example.com/job3.jpg",
+            "applyLink": "https://example.com/apply/job3"
+        }
+    ],
+    "companies": [
+        {
+            "name": "Systems Ltd",
+            "jobs": 45,
+            "logo": "https://example.com/logo1.png"
+        },
+        {
+            "name": "HBL Bank",
+            "jobs": 32,
+            "logo": "https://example.com/logo2.png"
+        },
+        {
+            "name": "Engro Corp",
+            "jobs": 28,
+            "logo": "https://example.com/logo3.png"
+        }
+    ]
+}
